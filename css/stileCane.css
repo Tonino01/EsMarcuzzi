@@ -1,0 +1,69 @@
+
+@font-face {
+  font-family: 'Lilita One';
+  src: url('LilitaOne-Regular.ttf') format('truetype');
+}
+
+body {
+  background-color: #7D7F86;
+  font-family: 'Lilita One', sans-serif;
+  color: white;
+  margin: 0;
+  text-align: center;
+  
+  
+}
+
+h1 {
+	padding: 40px;
+	font-size: 48px;
+	
+} 
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    padding: 40px;
+	border: #5781FF;
+    box-shadow: 0 0 10px #5781FF;
+	background-color: #5781FF;
+    width: 200px;
+	border-radius: 10px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 5vh;
+  
+}
+
+.button1 {
+  background-color: #5781FF;
+  border: solid black;
+  color: white;
+  padding: 4px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  border-radius: 10px;
+}
+
+
+.imgV {
+  
+ 
+  background: white;
+  padding: 20px;
+  
+  
+  
+  
+}
+
+
